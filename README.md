@@ -13,12 +13,15 @@ It includes **test cases, bug reports, and a test plan** to ensure the app meets
 ## Project Structure
 - **Get-Personal-Voicemail-Testing
    ## Test Cases
-     Get_Personal_Voicemail_Test_Cases.xlsx           # Detailed test cases
+     [Get_Personal_Voicemail_Test_Cases.xlsx](https://github.com/Abdulla-Al-Bayzed/Get-Personal-Voicemail-Testing/blob/267f4243845fde33e23f82ae704400ca98821fe7/Get_Personal_Voicemail_Test_Cases.xlsx)           # Detailed test cases
    ## Bug Reports                    
-      Get_Personal_Voicemail_Bug_Report.md        # List of 16 identified bugs
+      [Get_Personal_Voicemail_Bug_Report.md](https://github.com/Abdulla-Al-Bayzed/Get-Personal-Voicemail-Testing/blob/267f4243845fde33e23f82ae704400ca98821fe7/Get%20personal%20voicemail%20bug%20report.md)        # List of 16 identified bugs
    ## Test Plan                      
-      Test_Plan.docx                          # Detailed test strategy
-      README.md                                 # Project description
+      [Test_Plan.docx](https://github.com/Abdulla-Al-Bayzed/Get-Personal-Voicemail-Testing/blob/267f4243845fde33e23f82ae704400ca98821fe7/Test%20Plan%20for%20Get%20Personal%20Voicemail%20project.docx)                          # Detailed test strategy
+      [README.md](https://github.com/Abdulla-Al-Bayzed/Get-Personal-Voicemail-Testing/blob/267f4243845fde33e23f82ae704400ca98821fe7/README.md)                                 # Project description
+
+   ## Quality Report
+        [Get Personal Voicemail Quality Report](https://github.com/Abdulla-Al-Bayzed/Get-Personal-Voicemail-Testing/blob/267f4243845fde33e23f82ae704400ca98821fe7/Get%20Personal%20Voicemail%20Quality%20Report.pdf)
 
 ## Key Findings
 - **16 total issues found**, including:
