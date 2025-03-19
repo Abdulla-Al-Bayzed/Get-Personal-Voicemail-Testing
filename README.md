@@ -13,11 +13,11 @@ It includes **test cases, bug reports, and a test plan** to ensure the app meets
 ## Project Structure
 - **Get-Personal-Voicemail-Testing
    ## Test Cases
-     Get_Personal_Voicemail_Test_Cases.xlsx    # Detailed test cases
+     Get_Personal_Voicemail_Test_Cases.xlsx           # Detailed test cases
    ## Bug Reports                    
-      Get_Personal_Voicemail_Bug_Report.md     # List of 16 identified bugs
+      Get_Personal_Voicemail_Bug_Report.md        # List of 16 identified bugs
    ## Test Plan                      
-      Test_Plan.docx                         # Detailed test strategy
+      Test_Plan.docx                          # Detailed test strategy
       README.md                                 # Project description
 
 ## Key Findings
