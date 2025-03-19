@@ -10,13 +10,13 @@ It includes **test cases, bug reports, and a test plan** to ensure the app meets
 - **Regression Testing** - Ensuring bug fixes do not break existing features.
 - **Smoke & Acceptance Testing** - Confirming basic functionalities are working.
 
-## 📂 Project Structure
-📁 Get-Personal-Voicemail-Testing
-   ├── 📂 Test Cases                    
+## Project Structure
+Get-Personal-Voicemail-Testing
+   ├── Test Cases                    
    │   ├── Get_Personal_Voicemail_Test_Cases.xlsx    # Detailed test cases
-   ├── 📂 Bug Reports                    
+   ├── Bug Reports                    
    │   ├── Get_Personal_Voicemail_Bug_Report.md     # List of 32 identified bugs
-   ├── 📂 Test Plan                      
+   ├── Test Plan                      
    │   ├── Test_Plan.docx                         # Detailed test strategy
    ├── README.md                                 # Project description
 
@@ -40,6 +40,3 @@ It includes **test cases, bug reports, and a test plan** to ensure the app meets
 ## Contact
 **Test Engineer:** [Abdulla Al Bayzed](https://www.linkedin.com/in/abdulla-al-bayzed-276797191/)  
 **Email:** bayezid.shuvo@gmail.com  
-
----  
-## This project demonstrates professional manual testing skills for software quality assurance (SQA).*
